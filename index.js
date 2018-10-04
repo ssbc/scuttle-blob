@@ -1,5 +1,5 @@
 const inject = require('scuttle-inject')
-const methods = require('methods')
+const methods = require('./methods')
 
 const REQUIRED_PLUGINS = ['blobs']
 
