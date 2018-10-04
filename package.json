@@ -1,6 +1,6 @@
 {
   "name": "scuttle-blob",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "a helper module for scuttlebutt blobs",
   "main": "index.js",
   "scripts": {
